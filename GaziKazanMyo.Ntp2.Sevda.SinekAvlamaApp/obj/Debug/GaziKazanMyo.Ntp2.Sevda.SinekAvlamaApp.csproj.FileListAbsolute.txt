@@ -1,0 +1,10 @@
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\bin\Debug\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp.exe.config
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\bin\Debug\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp.exe
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\bin\Debug\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp.pdb
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\obj\Debug\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp.csprojAssemblyReference.cache
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\obj\Debug\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp.FrmSinek.resources
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\obj\Debug\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp.Properties.Resources.resources
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\obj\Debug\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp.csproj.GenerateResource.cache
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\obj\Debug\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp.csproj.CoreCompileInputs.cache
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\obj\Debug\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp.exe
+W:\Gazi_Uni\NesneTabanliProgramlama_2\Uygulamalar\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp\obj\Debug\GaziKazanMyo.Ntp2.Sevda.SinekAvlamaApp.pdb
